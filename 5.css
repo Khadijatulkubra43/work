@@ -1,0 +1,126 @@
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: white;
+    color: black;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+  
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+ .contant1{
+    text-align: center;
+    margin-top: -50px
+ }
+ .contant2{
+    float: right;
+    margin-top: -30px;
+ }
+ .page{
+  display: flex;
+  gap: 25px;
+
+ }
+ .full{
+  display: flex;
+  gap: 25px;
+ }
+ .center{
+  text-align: center;
+ 
+ }
+ 
+.center a {
+  color: black;
+  
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.center a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.center a:hover:not(.active) {
+  background-color: black;
+  color: white;
+
+}
+p{
+  text-align: center;
+}
+h4{
+  text-align: center;
+}
+h6{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+.fiver{
+  text-align: left;
+}
+.five{
+  text-align: left;
+}
+.six{
+ 
+  margin-top: -120px;
+}
+.hoverable{
+  text-align: center;
+  display: inline-block;
+  margin: 25px 10px;
+}
+.two{
+  text-align: center;
+}
+.one{
+  float:right;
+  margin-top: -50px;
+}
+
+.hoverable a:hover {
+  background-color: white;
+ 
+
+}
+.w3-tag23{
+  background-color: black;
+  color: white;
+
+
+}
+.w3-tag{
+  background-color: gray;
+  color: white;
+}
+.nine{
+  margin-top: -200px;
+  text-align: right;
+}

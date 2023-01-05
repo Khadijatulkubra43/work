@@ -1,0 +1,70 @@
+.second{
+    height: 50%;
+    width: 30%;
+}
+.nop{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+.third{
+    position: absolute;
+    left: 16px;
+}
+
+  .eight {
+    margin-top: 10px;
+    border: 1px solid #f1f1f1;
+    min-height: 250px;
+    max-height: 350px;
+    margin: 20px;
+  }
+  
+  .ninth {
+    text-align: center;
+    z-index: 999;
+   right: -2px;
+  background-color: #04aa6d;;
+  color: white;
+  border-radius: 25px;
+  }
+  .eleven{
+    text-align: center;
+    z-index: 999;
+   right: -2px;
+  background-color: #04aa6d;;
+  color: white;
+  border-radius: 25px;
+  }
+  .fourteen{
+    text-align: center;
+    z-index: 999;
+   right: -2px;
+  background-color: #04aa6d;;
+  color: white;
+  border-radius: 25px;
+  }
+  .sixteen{
+    text-align: center;
+    z-index: 999;
+   right: -2px;
+  background-color: #04aa6d;;
+  color: white;
+  border-radius: 25px;
+  }
+  
+ .fill{
+ float: right;
+ margin-top: -900px;
+
+}
+.eighteen{
+  margin-left: 200px;
+  text-align: left;
+}
+.part{
+  float: right;
+  margin-top: -400px;
+  margin-left: 500px;
+  float: center;
+}
