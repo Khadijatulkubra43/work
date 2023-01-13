@@ -1,0 +1,77 @@
+.header{
+    text-align:center;
+}
+.two{
+    background-color: black;
+    color: white;
+    height: 50px;
+}
+.four{
+    color: gray;
+}
+body{
+    background-color: lightgray;
+}
+.button{
+    height: 50px;
+    width: 150px;
+    border-color: white;
+}
+.six{
+    margin-left: 550px;
+   top:500px;
+ 
+}
+.eight{
+    margin-top: -50px;
+}
+.seven{
+    background-color: black;
+    color: white;
+}
+.container{
+    background-color: white;
+    width: 700px;
+   box-shadow: 2px 3px 14px 8px gray;
+}
+.w3-card{
+    /*display: block;*/
+    float: right;
+    margin-top: -60ch;
+    background-color: white;
+    width: 400px;
+    box-shadow: 2px 3px 14px 8px gray;
+    z-index: 99
+}
+.w3-opacity{
+    color: gray;
+}
+.w3-padding{
+    background-color: lightgray;
+    height: 50px;
+}
+
+.w3-margin{
+background-color: white;
+width: 400px;
+margin-left:850px;
+margin-top: -75ch;
+box-shadow: 2px 3px 14px 8px gray;
+    z-index: 99
+}
+.w3-left{
+    background-color: white;
+width: 400px;
+margin-left:850px;
+margin-top: -1ch;
+box-shadow: 2px 3px 14px 8px gray;
+    z-index: 99
+}
+.black{
+    background-color: black;
+    color: white;
+}
+.gray{
+    background-color: gray;
+    color: white;
+}
