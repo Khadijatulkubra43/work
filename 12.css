@@ -1,0 +1,147 @@
+.w3-button{
+    float: right;
+}
+.header{
+    background-color: black;
+    color: white;
+   height: 30px;
+   
+}
+.button{
+    padding-left: 3em;
+}
+.button :hover{
+    color: gray;
+}
+.main{
+    text-align: center;
+}
+.w3-display{
+    margin-top: -50ch;
+}
+.w3-white{
+    color: black;
+    background-color: lightgray;
+    height: 55px; 
+    width: 120px;
+    opacity: 50%;
+
+}
+.w3-center{
+    position: relative; 
+    position: absolute; 
+    bottom: -45ch;
+    margin-left: 300px;
+    
+}
+.w3-padding{
+    margin-left: 20px;
+    bottom: -45ch;
+}
+.tw0{
+    margin-left: 30px;
+}
+.w3-black{
+    height: 40px;
+    margin-right: 0.1px;
+    width: 120px;
+}
+.w3-tag{
+    background-color: white;
+    color: black;
+}
+.w3-padding-16{
+    margin-right:70px;
+    
+}
+.w3-right{
+    margin-right:750px;
+}
+.w3-padding-0{
+    margin-right: 145px;
+}
+/*.w3-grayscale{
+    margin-left: 850px;
+    margin-top: -610ch;
+}
+.w3-margin-2{
+   
+    background-color: black;
+    color: white;
+
+}*/
+.w3-white-w3-margin{
+   
+    margin-top: -315ch;
+    background-color: white;
+    width: 400px;
+   margin-left: 850px;
+   background-color: black;
+   color: white;
+}
+.w3-three{
+    margin-left: 850px;
+    width: 400px;
+    background-color: white;
+
+}
+.w3-container-w3-padding-w3-black{
+    background-color: black;
+    color: white;
+
+}
+.w3-four{
+    margin-left: 850px;
+    width: 400px;
+    background-color: white;
+    width:300px;
+    height: 200px;
+}
+.w3-section{
+   
+    background-color: lightgray;
+    color: black;
+    margin-top: -115ch;
+}
+.w3-display-middle{
+    color: black;
+}
+.w3-five{
+    background-color: white;
+width: 400px;
+margin-left:850px;
+margin-top: -1ch;
+}
+.w3-container-w3-padding{
+    background-color: black;
+    color: white;
+}
+.black{
+    background-color: black;
+    color: white;
+}
+.gray{
+    background-color: lightgray;
+}
+.w3-six{
+    background-color: white;
+width: 400px;
+margin-left:850px;
+margin-top: -1ch;
+}
+.w3-seven{
+    background-color: white;
+width: 400px;
+margin-left:850px;
+margin-top: -1ch;
+}
+.nine{
+    background-color: black;
+    color: white;
+}
+.w3-eight{
+    background-color: white;
+width: 400px;
+margin-left:850px;
+margin-top: -1ch;
+}
