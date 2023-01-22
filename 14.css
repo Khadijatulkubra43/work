@@ -1,0 +1,150 @@
+body{
+    margin: 0;
+    background: white;
+}
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'josefin sans',sans-serif;
+
+
+}
+.wrapper{
+    display: flex;
+    position: relative;
+}
+.wrapper .sidebar{
+    position: sticky;
+    width: 200px;
+    height: 100%;
+    background-color: white;
+    padding: 30px 0;
+}
+.wrapper .sidebar h2{
+    text-transform: uppercase;
+    color: black;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.wrapper .sidebar ul li{
+    padding: 15px;
+    border-bottom: 1px solid rgba(0, 0,0, 0.05);
+    border-top: 1px solid rgba(225, 225,225,0.05);
+}
+.wrapper .sidebar ul li a{
+    color: gray;
+    display: block;
+}
+.wrapper .sidebar ul li:hover{
+    background-color: lightgray;
+}
+.wrapper .sidebar ul li:hover a{
+    color: black;
+}
+.heading {
+    margin-left: 260px; /* Same as the width of the sidenav */
+    font-size: 18px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+    margin-top: -100ch;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+.display{
+    margin-left: 200px;
+}
+.small{
+   margin-top: -45ch;
+   color: white;
+}
+.hide{
+
+    color: white;
+}
+.button{
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 150px;
+}
+.text{
+    color: gray;
+    margin-left: 260px;
+}
+.items{
+    display: flex;
+   justify-content: space-around; content: "";
+   clear: both;
+   display: flex;
+   margin-left: 100px;
+   filter: grayscale(100%);
+  
+
+}
+.content {
+
+  
+    padding: 10px;
+  }
+  
+
+.four{
+    margin-left: 1px;
+    background-color: black;
+    color: white;
+}
+.five{
+    margin-left: 20px;
+}
+.black{
+    background-color: black;
+    color: white;
+    margin-left: 100px;
+    height: 250px;
+    width: 1100px;
+}
+.button1{
+    background-color: red;
+    color: white;
+    height: 50px;
+    width: 100px;
+    border-color: red;
+}
+.border{
+      height: 30px;
+}
+.btn{
+    color: white;
+    background-color: black;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+}
+.colm{
+    margin-left: 200px;
+}
+.input1{
+    width: 300px;
+    height: 30px;
+}
+.col{
+    margin-left: 600px;
+    margin-top: -45ch;
+}
+.ten{
+   text-decoration: underline;
+   color: black;
+}
+.ten a{
+    color: black;
+    font-size: small;
+}
+.justify{
+    margin-left: 800px;
+    margin-top: -55ch;
+}
