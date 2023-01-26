@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+}
+.container{
+    color: white;
+    margin-top: -50ch;
+   margin-left:600px;
+    font-size: large;
+    border-color: white;
+    width: 200px;
+    height: 200px;
+
+ 
+}
+
+.nav ul{
+    list-style: none;
+    background-color: rgb(223, 223, 223);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.nav li{
+    display: inline-block;
+}
+.nav a{
+    color: black;
+    text-decoration: none;
+    width: 100px;
+    display: block;
+    padding: 15px;
+    font-size: 17px;
+}
+.nav a:hover{
+    color: white;
+    background-color: gray;
+}
+.image{
+    margin-left: 150px;
+}
+.center{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.input{
+ 
+    width: 650px;
+    height:30px;
+}
+.section{
+    margin-left: 300px;
+}
+.btn{
+    width: 650px;
+    height:30px;
+    color: white;
+    margin-left: 300px;
+    background-color: grey;
+    border-color: grey;
+}
