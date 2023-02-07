@@ -1,0 +1,149 @@
+body{
+    margin: 0;
+}
+.header{
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+}
+ul {
+    padding-left: 50px
+  }
+  ul li {
+    list-style-type: none;
+    padding-left: 40px;
+ 
+  }
+  a{
+    color: gray;
+  }
+  a:hover{
+    background-color: lightgray;
+    color: black;
+  }
+  .head{
+    color: gray;
+  }
+  .third{
+    display: flex;
+    margin-top: -43ch;
+    margin-left: 250px;
+  }
+  .thiird{
+    display: flex;
+    margin-top: -3ch;
+    margin-left: 250px;
+  }
+  .thiiird{
+    display: flex;
+    margin-top: -1ch;
+    margin-left: 250px;
+  }
+  .w3-bar{
+    text-align: center;
+  }
+  .black{
+    font-size: large;
+    color: black;
+    
+  }
+  .black:hover{
+    background-color: black;
+    color: white;
+  }
+  .container{
+   background-color: gray;
+   margin-left:300px;
+  /*  width: 800px;*/
+    color: white;
+   
+    
+  }
+  .images{
+   margin-left: 200px;
+  }
+  p{
+      margin-left: 120px;
+  }
+  h4{
+      margin-left: 120px;
+  }
+  .white{
+    margin-left: 120px;
+    background-color: rgb(196, 193, 193);
+    text-align: center;
+    color: white;
+    width: 75%;
+  }
+  .whites{
+    margin-left: 120px;
+    background-color: rgb(196, 193, 193);
+    text-align: center;
+    color: white;
+    width: 70%;
+  }
+  .whitess{
+    margin-left: 120px;
+    background-color: rgb(196, 193, 193);
+    text-align: center;
+    color: white;
+    width: 65%;
+  }
+  .bottom{
+    background-color: white;
+    color: black;
+    height: 30px;
+    border-color: white;
+  }
+  .halff{
+    margin-left: 400px;
+    margin-top: -57ch;
+    color: black;
+
+  }
+  .half{
+    margin-left: 150px;
+    color: black;
+  }
+  .xlarge{
+    background-color: black;
+    width: 160px;
+    height: 50px;
+    color: white;
+  }
+  .button{
+    background-color: lightgrey;
+    color: black;
+    border-color: lightgray;
+  }
+  .button:hover{
+    background-color: white;
+  }
+  .two{
+    background-color: lightgray;
+    width: 200px;
+  }
+  .two:hover{
+    background-color: white;
+  }
+  .contect{
+    margin-left: 300px;
+    background-color: rgb(235, 235, 235);
+    /*width: 800px;*/
+    height:400px;
+  }
+  .section{
+    margin-left: 100px;
+  }
+  .input{
+    width: 500px;
+    height: 30px;
+  }
+  .submit{
+    margin-left: 100px;
+    width: 500px;
+    height: 30px;
+    background-color: black;
+    color: white;
+  }
