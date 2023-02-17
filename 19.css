@@ -1,0 +1,135 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.header{
+    background-color: rgb(65, 63, 63);
+    width: 100px;
+    height: 10000px;
+}
+a :hover{
+    background-color: black;
+    color: white;
+}
+.blacks :active{
+    background-color: lightgray;
+}
+.main{
+    margin-left: 150px;
+    margin-top: -1050ch;
+    text-align: center;
+}
+.content{
+    margin-left: 150px;
+    
+}
+.one{
+    margin-left: 150px;
+}
+
+.dark-grey{
+    background-color: darkgray;
+}
+.light-gray{
+    background-color: rgb(250, 248, 248);
+    display: flex;
+    margin-left: 150px;
+    color: black;
+    width: 1080px;
+    height: 120px;
+    font-size: large;
+
+}
+.section{
+    margin-left: 110px;
+    padding: 20px;
+
+}
+.button{
+    margin-left: 150px;
+    background-color: rgb(250, 248, 248);
+    color: black;
+    width: 200px;
+    height: 50px;
+
+}
+.two{
+    margin-left: 150px;
+}
+.row1{
+    margin-left: 150px;
+ 
+}
+.center{
+    list-style: none;
+}
+.three{
+    color: rgb(66, 64, 64);
+    background-color: darkgrey;
+    width: 450px;
+    height: 80px;
+   font-size: large;
+   text-align: center;
+}
+.four{
+    text-align: center;
+     width: 450px;
+    height: 80px;
+    color: black;
+    background-color: lightgray;
+    font-size: large;
+    border-color: lightgray;
+    
+}
+.four:hover{
+    background-color: white;
+}
+.white:hover{
+    background-color: black;
+    color: white;
+
+
+}
+.white{
+    border-color: lightgray;
+    background-color: lightgray;
+}
+.margin1{
+    margin-left: 500px;
+    margin-top: -60ch;
+}
+.left{
+    margin-left: 150px;
+    border-radius: 50%
+}
+.right{
+    margin-left: 250px;
+    margin-top: -5ch;
+    color: lightgray;
+}
+.rights{
+    margin-left: 250px;
+    margin-top: -1ch;
+    color: lightgray;
+
+}
+.dot{
+    color: lightgray;
+}
+.input{
+    width: 1000px;
+    height: 50px;
+}
+.botton{
+    border-color: lightgray;
+    background-color: lightgray;
+    width: 200px;
+    height: 50px;
+}
